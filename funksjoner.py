@@ -1,9 +1,9 @@
-def main():
-    x = 0
 
-    string_y = None
+x = 0
 
-    pi = 0.0
+string_y = None
+
+pi = 0.0
 
 
 def for_loop():
