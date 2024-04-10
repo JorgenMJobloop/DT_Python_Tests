@@ -1,6 +1,6 @@
 
 x = 0
-
+y = 0
 string_y = None
 
 pi = 0.0
