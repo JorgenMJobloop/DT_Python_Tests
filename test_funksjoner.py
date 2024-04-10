@@ -7,8 +7,8 @@ class TestVariables(unittest.TestCase):
         self.assertEqual(test_x, 5)
 
     def test_reassignment(self):
-        test_x = funksjoner.x
-        self.assertEqual(test_x, 10)
+        test_y = funksjoner.y
+        self.assertEqual(test_y, 10)
 
     def test_types(self):
         test_string_y = funksjoner.string_y
